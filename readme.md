@@ -8,4 +8,4 @@ Novo arquivo, modificado
 Revificar como o Git funciona em cada estado
 
 Gostou do curso? Sim!
-
+ntegrado com o git
