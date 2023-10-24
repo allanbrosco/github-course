@@ -9,3 +9,5 @@ Revificar como o Git funciona em cada estado
 
 Gostou do curso? Sim!
 ntegrado com o git
+
+teste de itegração usando ssh após troca de chave
